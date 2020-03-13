@@ -13,3 +13,7 @@ Needs SQL Server 2012
 Install LibreOffice if want to use cheatsheat
 
 # [Changelog](Changelog.md)
+
+For Server related files
+
+# [Server Files](https://github.com/cansnoxd/JPKO-Server)
