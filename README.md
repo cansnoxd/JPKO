@@ -10,4 +10,6 @@ Needs 7zip or Winrar
 
 Needs SQL Server 2012
 
+Install LibreOffice if want to use cheatsheat
+
 # [Changelog](Changelog.md)
