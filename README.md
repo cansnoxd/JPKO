@@ -8,7 +8,7 @@ I dont see any reason to make this project script based
 Needs 7zip or Winrar
 (I had to compressed it due to database file size)
 
-Needs SQL Server 2012
+Needs SQL Server 2014
 
 Install LibreOffice if want to use cheatsheat
 
