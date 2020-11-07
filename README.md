@@ -17,3 +17,5 @@ Install LibreOffice if want to use cheatsheat
 For Server related files
 
 # [Server Files](https://github.com/cansnoxd/JPKO-Server)
+
+Use https://github.com/cansnoxd/JPKO-Mobile-Tables if you want to edit tables in mobile
