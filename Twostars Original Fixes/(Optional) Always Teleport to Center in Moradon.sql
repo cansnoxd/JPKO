@@ -1,4 +1,9 @@
-USE [KN_online]
+--This is an optional script you dont need to use this , basicly what it does it center your respawn point to moradon everytime you relog
+--Made originaly by korean dudes below
+--
+--
+USE KN_online
+--
 GO
 /****** Object:  StoredProcedure [dbo].[LOAD_USER_DATA]    Script Date: 19.5.2020 04:16:01 ******/
 SET ANSI_NULLS ON
