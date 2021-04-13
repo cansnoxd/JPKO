@@ -1,3 +1,7 @@
+## Version 0.1d
+#JPKO Modified now called "JPKO 1.298"
+#JPKO Vanilla removed and replaced with new scripts "Twostars Original Fixes" if you apply those scripts you keep original version
+
 ## Version 0.1c
 #JPKO database now called JPKO Modified gonna include my edits , JPKO Vanilla wont gonna include my custom edits simillar to untouched but updated and fixed
 
