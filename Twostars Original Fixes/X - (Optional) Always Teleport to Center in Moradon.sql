@@ -1,4 +1,4 @@
---This is an optional script you dont need to use this , basicly what it does it center your respawn point to moradon everytime you relog
+--This is an optional script you dont need to use this , basicly what it does it center your respawn point to moradon everytime you relog for 1.298
 --Made originaly by korean dudes below
 --
 --
