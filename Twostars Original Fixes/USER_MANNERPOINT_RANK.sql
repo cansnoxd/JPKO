@@ -1,4 +1,9 @@
-USE [KN_online]
+--Fixes Clan Grades for 1.298
+--Can_SnoxD
+--
+--
+USE KN_online
+--
 GO
 
 /****** Object:  Table [dbo].[USER_MANNERPOINT_RANK]    Script Date: 11.4.2020 00:04:08 ******/
