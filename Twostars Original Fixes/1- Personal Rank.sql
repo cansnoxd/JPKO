@@ -1,4 +1,9 @@
--- Symbol + Grade
+--Reset Server 1.298
+--Can_SnoxD
+--
+--
+USE KN_online
+--
 EXEC RANK_KNIGHTS
 EXEC USER_KNIGHTS_RATING_UPDATE
 EXEC KNIGHTS_RATING_UPDATE
