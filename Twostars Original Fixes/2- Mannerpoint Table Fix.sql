@@ -17,8 +17,8 @@ GO
 -- 매너포인트 순위
 -- 2004. 4. 30 arycoat
 --
-
-ALTER PROC [dbo].[UPDATE_MANNERPOINT_RANK]
+/* if exist use ALTER PROC*/
+CREATE PROC [dbo].[UPDATE_MANNERPOINT_RANK]
 
 AS
 
