@@ -1,7 +1,0 @@
---Add Repair Vendor to Arena 1.298
---Can_SnoxD
---
---
-USE KN_online
---
-INSERT INTO K_NPCPOS VALUES (48,21047,100,0,0,0,0,118,106,118,106,118,106,118,106,1,3600,0,0,NULL)

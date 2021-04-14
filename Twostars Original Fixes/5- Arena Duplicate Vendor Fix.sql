@@ -1,9 +1,0 @@
---Arena Duplicate Potion Vendor Fix 1.298
---Can_SnoxD
---
---
-USE KN_online
---
-DELETE FROM K_NPCPOS WHERE NpcID ='16089'
---
-INSERT INTO K_NPCPOS VALUES (48,16089,100,0,0,0,0,137,121,137,121,137,121,137,121,1,3600,0,0,NULL)
