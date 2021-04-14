@@ -11,7 +11,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 /* if exist use ALTER PROC*/
-ALTER procedure [dbo].[ACCOUNT_CHAR_NAME_CHANGE]
+CREATE procedure [dbo].[ACCOUNT_CHAR_NAME_CHANGE]
 (@strOldUserId varchar(30),@StrNewUserId varchar(30))
 AS 
 DECLARE @strCheckOldUserID varchar(30),@strCheckNewUserID varchar(30)
